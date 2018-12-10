@@ -15,5 +15,3 @@ export function fetchWeather(city) {
   };
 }
 //returning the promise as the payload
-
-//COMMENT CHANGE
